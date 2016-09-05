@@ -1,0 +1,37 @@
+.wrapper {
+  max-width: 400px;
+}
+
+#chord-progression {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid lightgray;
+}
+
+.section {
+  margin-bottom: 20px;
+  display: none;
+}
+
+.measure {
+  width: 25%;
+  display: inline-block;
+}
+
+.m-line {
+  float: right;
+  width: 10px;
+}
+
+audio {
+  width: 100%;
+}
+
+.data {
+  display: inline;
+  margin-right: 10px;
+}
+
+label {
+  font-weight: bold;
+}
