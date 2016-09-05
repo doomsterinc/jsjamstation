@@ -1,0 +1,24 @@
+{
+  "name": "jsjamstation",
+  "version": "1.0.0",
+  "description": "JavaScript Jam Station TEST",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomsterinc/jsjamstation.git"
+  },
+  "keywords": [
+    "JS",
+    "Music",
+    "Programming"
+  ],
+  "author": "Maicon Giovani (Doomster)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doomsterinc/jsjamstation/issues"
+  },
+  "homepage": "https://github.com/doomsterinc/jsjamstation#readme"
+}
